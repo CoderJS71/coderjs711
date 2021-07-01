@@ -9,4 +9,14 @@ p {
 }
 body {
   background-color: rgb(245, 241, 241);
+  text-align: center;
+  margin: 200px;
+}
+.github {
+  font-size: 40px;
+  color: chartreuse;
+}
+span {
+  font-size: 30px;
+  color: chartreuse;
 }
