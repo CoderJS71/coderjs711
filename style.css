@@ -1,12 +1,12 @@
-h1,
-p {
-  color: green;
+h1 {
+  font-style: oblique;
+  color: orangered;
   font-size: 30px;
-  font-family: tahoma;
 }
-
 p {
-  font-family: tahoma;
-  font-size: 50px;
-  color: red;
+  font-style: tahoma;
+  color: ;
+}
+body {
+  background-color: rgb(245, 241, 241);
 }
